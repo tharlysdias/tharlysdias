@@ -9,3 +9,5 @@ Estudante na '**UNISOCIESC** *em Blumenau/SC (Brazil)*' <br>
 Apaixonado por tecnologia. Sempre aprendendo algo novo!
 
 Evoluir, inovar e facilitar a vida das pessoas.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharlysdias)](https://github.com/anuraghazra/github-readme-stats)
